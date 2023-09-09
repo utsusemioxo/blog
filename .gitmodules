@@ -1,0 +1,4 @@
+[submodule "utsusemioxo_site/public"]
+	path = utsusemioxo_site/public
+	url = git@github.com:utsusemioxo/utsusemioxo.github.io.git
+	branch = main
